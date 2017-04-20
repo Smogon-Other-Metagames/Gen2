@@ -1,0 +1,3 @@
+	{
+		ruleset: ['Pokemon', 'Standard'],
+	},
